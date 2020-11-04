@@ -181,9 +181,10 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
-| [Feather Icons](https://feathericons.com/)| Beautiful, customizable open source icons |
-| [Tabler Icons](https://tablericons.com/)| 470+ highly customizable open source SVG icons |
-| [Simple Icons](https://simpleicons.org/)| 1307 Free SVG icons for popular brands |
+| [Feather Icons](https://feathericons.com/)| Click and download icon |
+| [Tabler Icons](https://tablericons.com/)| Click and copy svg code. Then create .svg file and paste it |
+| [Simple Icons](https://simpleicons.org/)| Brand icon download |
+| [Above seen ]| Above seen |
 | [Linear Icons](https://linearicons.com/free)| 1000+ Ultra crisp vector icons |
 | [Icons8](https://icons8.com/)| Free icons, photos, vectors and tools |
 | [Flat Icon](https://www.flaticon.com/)| The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  |
