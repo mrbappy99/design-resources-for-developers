@@ -17,6 +17,7 @@
 - [Product & Image Mockups](#product--image-mockups)
 - [HTML & CSS Templates](#html--css-templates)
 - [CSS Frameworks](#css-frameworks)
+- [CSS Tools](#css-tools)
 - [CSS Methodologies](#css-methodologies)
 - [CSS Animations](#css-Animations)
 - [Javascript Animations](#javascript-animation-libraries)
