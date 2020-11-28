@@ -40,8 +40,11 @@
 
 >Best website youtube channels.
 
-| [Hungry Turtle Code](https://www.youtube.com/channel/UC7Vxnf06GP6w42Lg3TQLXSw)                           | Javascript, Angular
-| [Technodine](https://www.youtube.com/channel/UC5IBhBCmdqtoERM8CmtLpeQ)                                   | React, python, moongoos  
+| Youtube Channels     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Hungry Turtle Code](https://www.youtube.com/channel/UC7Vxnf06GP6w42Lg3TQLXSw)                           | Awesome UI Components of all types                                 |
+| [Technodine](https://www.youtube.com/channel/UC5IBhBCmdqtoERM8CmtLpeQ)                                   | Free Figma library of products, elements, and screens              
+
 
 
 
