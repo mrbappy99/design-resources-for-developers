@@ -61,7 +61,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Flat UI Colors](https://flatuicolors.com/                                                            | Awesome UI Colors
+| [Flat UI Colors](https://flatuicolors.com)                                                               | Awesome UI Colors
 
 ## UI Graphics
 
